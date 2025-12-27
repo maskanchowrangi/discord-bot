@@ -1,5 +1,5 @@
 @echo off
-cd C:\Users\ghazn\projects\discord-bot
+cd C:\Users\xyz\projects\discord-bot
 python bot.py
 pause
 ```
